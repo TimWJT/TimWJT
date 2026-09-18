@@ -7,6 +7,5 @@
 
 <p align="center">
   <a href="https://timwjt.github.io/">Website</a> &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/timwang01/">LinkedIn</a> &nbsp;·&nbsp;
-  <a href="mailto:tim200465@gmail.com">Email</a>
+  <a href="https://www.linkedin.com/in/timwang01/">LinkedIn</a>
 </p>
