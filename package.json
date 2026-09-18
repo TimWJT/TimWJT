@@ -1,0 +1,12 @@
+{
+  "name": "timwjt",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build-banner.mjs"
+  },
+  "devDependencies": {
+    "matter-js": "^0.20.0",
+    "opentype.js": "^2.0.0"
+  }
+}
