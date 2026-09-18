@@ -5,6 +5,4 @@
   </picture>
 </a>
 
-<p align="center">
-  You can find out more about me on my <a href="https://timwjt.github.io/">website</a>. See you there!
-</p>
+### You can find out more about me on my [website](https://timwjt.github.io/). See you there!
