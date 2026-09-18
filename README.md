@@ -5,4 +5,4 @@
   </picture>
 </a>
 
-### You can find out more about me on my [website](https://timwjt.github.io/). See you there!
+You can find out more about me on my [website](https://timwjt.github.io/). See you there!
