@@ -37,16 +37,16 @@
   },
   "squares": [
     {
-      "color": "outline",
-      "x": 680,
-      "y": 118,
-      "size": 141
-    },
-    {
       "color": "blue",
       "x": 635,
       "y": 58,
       "size": 125
+    },
+    {
+      "color": "outline",
+      "x": 680,
+      "y": 118,
+      "size": 141
     },
     {
       "color": "orange",
